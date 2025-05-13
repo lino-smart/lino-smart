@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Alioune Niang
+# 👋 Hi, I'm Aliou Niang
 
 💡 Full-stack Web Developer | 🧠 Systems Programmer  
 🌍 Based in Dakar, Senegal  
