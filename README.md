@@ -4,7 +4,7 @@
 🌍 Based in Dakar, Senegal  
 🛠️ I work with Rust, Go, JavaScript, Spring Boot, MongoDB, and more  
 🎓 Projects from 01Dakar + personal open-source tools  
-📫 Reach me at: [LinkedIn](www.linkedin.com/in/aliouniang)
+📫 Reach me at: [LinkedIn](https://www.linkedin.com/in/aliouniang)
 
 ---
 
