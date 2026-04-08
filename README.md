@@ -1,28 +1,44 @@
-# 👋 Hi, I'm Aliou Niang
+<div align="center">
+  <h1>Hi, I'm Aliou Niang </h1>
+  <h3>Full-Stack Developer | Javascript/Typescript Specialist</h3>
+  
+  <p>
+    <strong>Based in Dakar, Senegal</strong> • Building scalable web applications and real-world tools
+  </p>
 
-💡 Full-stack Web Developer | 🧠 Systems Programmer  
-🌍 Based in Dakar, Senegal  
-🛠️ I work with Rust, Go, JavaScript, Spring Boot, MongoDB, and more  
-🎓 Projects from 01Dakar + personal open-source tools  
-📫 Reach me at: [LinkedIn](https://www.linkedin.com/in/aliouniang)
-Portfolio: [👤](https://portfolio-theta-blush-47.vercel.app/)
-
----
-
-### 🚀 What I’m Working On
-- 🌐 A modern portfolio website
-- 🛠️ A Unix-like shell in Rust
-- ⚙️ System tools using low-level libraries
-
-### 📦 My Toolbox
-`Rust` `Go` `JavaScript` `Node.js` `MongoDB` `Spring Boot`  
-`Docker` `Linux` `Git` `Bevy` `React` `Tailwind CSS`
-
----
-
-### 📌 Pinned Projects
-I'll highlight the most relevant projects once they’re migrated.
+  <a href="https://portfolio-theta-blush-47.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio">
+  </a>
+  <a href="https://linkedin.com/in/aliouniang" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="mailto:linosmart10@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+</div>
 
 ---
 
-> Let’s build tools that matter.
+### About Me
+Full-Stack Developer specializing in JavaScript and TypeScript, with experience building modern web applications using React and Node.js. Contributed to a production EdTech platform (01Edu) used across multiple international campuses. Strong problem-solving mindset with additional experience in Rust and Go. Currently focusing on backend development with Java and Spring Boot.
+
+###  Tech Stack
+**Languages**  
+Rust • Go • Java • JavaScript • TypeScript • Bash  
+
+**Frontend**  
+Next.js • React • Tailwind CSS  
+
+**Backend & Databases**  
+Spring Boot • REST APIs • MongoDB • SQL  
+
+**Tools & Others**  
+Git • Docker • Bevy (game dev) • Agile • Clean Architecture  
+
+> **I'll be migrating and pinning the best projects here soon** — stay tuned!
+
+---
+
+<div align="center">
+  <strong>Let's build tools that matter.</strong>
+</div>
