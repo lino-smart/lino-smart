@@ -6,7 +6,7 @@
     <strong>Based in Dakar, Senegal</strong> • Building scalable web applications and real-world tools
   </p>
 
-  <a href="https://portfolio-theta-blush-47.vercel.app/" target="_blank">
+  <a href="https://aliou-niang.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio">
   </a>
   <a href="https://linkedin.com/in/aliouniang" target="_blank">
